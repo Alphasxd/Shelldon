@@ -1,19 +1,19 @@
 # Shelldon
 
-#### A simple shell written in C
+## A simple shell written in C
 
--  Project Architecture 
+### Project Architecture 
 
 ![structure](Pic/structure.png)
 
-- makefile
+### makefile
 
 ![makefile](Pic/makefile.png)
 
--  initial interface
+### initial interface
 
 ![start](Pic/start.png)
 
-- help info
+### help info
 
 ![help](Pic/help.png)

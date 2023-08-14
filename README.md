@@ -4,16 +4,16 @@
 
 -  Project Architecture 
 
-  ![structure](Pic/structure.png)
+![structure](Pic/structure.png)
 
 - makefile
 
-  ![makefile](Pic/makefile.png)
+![makefile](Pic/makefile.png)
 
 -  initial interface
 
-  ![start](Pic/start.png)
+![start](Pic/start.png)
 
 - help info
 
-  ![help](Pic/help.png)
+![help](Pic/help.png)
